@@ -1,0 +1,121 @@
+* {
+
+    padding: 0;
+    margin: 0;
+}
+body {
+
+    font-family: 'Roboto Condensed', sans-serif;
+    position: static;
+ 
+}
+/*----------------------------- header ---------------------------------*/
+.navbar-logo img {
+
+    height: 50px;
+    object-fit: contain;
+    margin-left: 10%;
+}
+.navbar-light {
+
+    display: flex;
+    justify-content: center;
+}
+.navbar {
+
+    height: 130px;
+}
+.nav-links {
+
+    margin-right: 10%;
+    font-size: 20px;
+    font-weight: bold;
+}
+header {
+
+    background-color: rgba(255, 244, 214, 0.425);
+
+}
+.banner-bag img {
+
+    height: 400px;
+}
+h1 { 
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+    color: #07075e;
+    font-weight: bolder;
+}
+h2 {
+    font-size: 45px;
+    font-weight: bolder;
+    color: #07075e;
+}
+#header-span {
+
+    color:rgb(114, 190, 114);
+}
+p { color: gray;
+}
+#buttons {
+
+    color: white;
+    background-color:  #07075e;
+    border: 0;
+    padding: 15px 25px;
+}
+/*----------------------------- header ---------------------------------*/
+
+/*----------------------------- main section ---------------------------------*/
+.about {
+
+    display: flex;
+    height: 145px;
+    border-radius: 25px;
+    padding: 0 20px;
+}
+.about img {
+
+    height: 130px;
+
+}
+h5 {
+    font-size: 25px;
+    font-weight: bold;
+    color:  #07075e;
+}
+h4 {
+
+    font-size: 45px;
+    color: rgb(107, 173, 107);
+    font-weight: bold;
+}
+
+.about-us {
+
+    margin-left: 20px;
+}
+.backpak-card {
+
+    border: 0;
+    border-radius: 20px;
+}
+.backpak-card img {
+
+    background-color: lightgray;
+    border-radius: 20px;
+    text-align: center;
+    max-width: 90%;
+    margin: 20px;
+}
+.bacpak-card-button {
+
+    padding: 20px 5px !important;
+}
+.backpak-footer {
+
+    background-color: white;
+    border: 0;
+    border-radius: 20px !important;
+}
+
