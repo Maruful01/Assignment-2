@@ -12,7 +12,7 @@ body {
 /*----------------------------- header ---------------------------------*/
 .navbar-logo {
 
-    height: 40px;
+    height: 70px;
     object-fit: contain;
 }
 
@@ -190,7 +190,7 @@ footer {
 
         .navbar-logo {
 
-            height: 30px;
+            height: 60px;
         }
 
 
@@ -216,10 +216,6 @@ footer {
             font-size: 20px;
         }
 
-        .navbar-logo {
-
-            height: 25px;
-        }
         h1 {
 
             font-size: 40px;
