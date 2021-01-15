@@ -36,6 +36,11 @@ body {
     padding: 20px;
     
 }
+.nav-links a:hover {
+
+    opacity: 60%;
+    text-shadow: 1px 1px 5px white;
+}
 header {
 
     background-color: #fff4d66c;
@@ -128,6 +133,10 @@ h4 {
 
     text-align: center;
 }
+p {
+
+    text-align: none;
+}
 /*----------------------------- main section ---------------------------------*/
 
 
@@ -183,6 +192,10 @@ footer {
     justify-content: center;
     align-items: center;
 }
+p {
+
+    text-align: center !important;
+}
 
     }
 
@@ -198,6 +211,7 @@ footer {
 
             font-size: 25px;
         }
+    
     }
 
 
